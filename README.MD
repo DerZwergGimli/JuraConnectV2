@@ -13,7 +13,7 @@ This project is using a ESP8266 (NodeMCU).
 ### Connection:
 
 | Pin           | Signal        | GPIO  |
-| ------------- |:-------------:| -----:|
+|:------------- |:-------------:| -----:|
 | 5             | +5V           | V(in) |
 | 4             | n.c.          |  n.c. |
 | 3             | RxD           |    D1 |
@@ -23,7 +23,7 @@ This project is using a ESP8266 (NodeMCU).
 ### Commands:
 
 | Function                           | Command |
-|------------------------------------|---------|
+|:-----------------------------------|---------|
 | machine on                         | AN:01   |
 | machine off                        | AN:02   |
 | test display                       | AN:03   |
