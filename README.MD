@@ -81,3 +81,7 @@ This project is using a ESP8266 (NodeMCU).
 | set machine type                   | WE:31   |
 | read inputs                        | IC:     |
 | read RAM                           | RR:     |
+
+# Useful Links:
+
+- <http://protocoljura.wiki-site.com/index.php/Commands_for_coffeemaker>
