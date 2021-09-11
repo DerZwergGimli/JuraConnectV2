@@ -13,8 +13,8 @@
 #include "WiFiHelper.h"
 
 #ifndef STASSID
-#define STASSID "Pizza"
-#define STAPSK "4kaese3xsalami"
+#define STASSID "SSIDXXXX"
+#define STAPSK "XXXXX"
 #endif
 
 AsyncWebServer server(80);
